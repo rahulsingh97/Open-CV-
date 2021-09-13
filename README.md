@@ -12,4 +12,3 @@ Steps to create Virtual Environment in Python
 * env\Scripts\activate (env is the example name given here). to activate the VENV
 * py programename.py
 
-Any URL (like http://www.github.com/) will be automatically converted into a clickable link.
