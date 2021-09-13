@@ -12,3 +12,4 @@ Steps to create Virtual Environment in Python
 * env\Scripts\activate (env is the example name given here). to activate the VENV
 * py programename.py
 
+C1.py is first program where the camera video is displayed
