@@ -3,7 +3,7 @@ Learning Open CV
 
 Learning from https://www.youtube.com/watch?v=WQeoO7MI0Bs
 
-Virtual Environment Names As **openenv**
+Virtual Environment Named As **`openenv`**
 
 Steps to create Virtual Environment in Python
 * open CMD as Admin[optional]
